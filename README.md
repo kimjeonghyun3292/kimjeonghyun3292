@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Kim Jeong Hyun&animation=blink&fontSize=50&fontAlign=75&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=김정현&animation=blink&fontSize=50&fontAlign=75&fontAlignY=40)
   
 
 ## 🛠 &nbsp;Technical Skills
